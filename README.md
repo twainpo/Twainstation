@@ -1,12 +1,9 @@
-# twainStation - An Einstein Engines LRP Server
+# twainStation - An Einstein Engines Server
 
 
 ## Official Server Policy
-twainstation is a laissez-faire Low Roleplay (LRP) server for Space Station 14, built for chaos, creativity, and camaraderie.
+twainstation is a EE fork.
 
-🌟 Our Philosophy:
-Minimal rules, maximum fun.
-A welcoming community where you can let loose and enjoy the absurdity of the station!
 
 ## Links
 
